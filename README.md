@@ -140,7 +140,7 @@ jupyter notebook
 👨‍💻 Author
 
 Venish Bhayani M.
-BCA (Semester 6) – Data Analytics Project
+Data Analytics Project
 
 ---
 

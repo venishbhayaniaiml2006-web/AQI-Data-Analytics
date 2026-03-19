@@ -1,4 +1,4 @@
-🌍 Air Quality Index (AQI) Data Analysis Project
+<img width="1386" height="715" alt="Screenshot 2026-03-18 183956" src="https://github.com/user-attachments/assets/c7830d75-937e-4d30-ba67-851a022e9391" />🌍 Air Quality Index (AQI) Data Analysis Project
 
 📌 Project Overview
 
@@ -80,7 +80,6 @@ AQI-Data-Analytics/
 
 📸 Sample Output
 
-(Add your screenshots here, for example:)
 
 - AQI comparison chart
 - Trend analysis graph
@@ -118,7 +117,7 @@ jupyter notebook
 
 👨‍💻 Author
 
-Your Name
+Venish Bhayani M.
 BCA (Semester 6) – Data Analytics Project
 
 ---
